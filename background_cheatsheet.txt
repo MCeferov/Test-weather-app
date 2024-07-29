@@ -1,0 +1,41 @@
+Clouds
+body.style.background="url(./img/Clouds.jpg)"
+                body.style.backgroundRepeat="no-repeat"
+                body.style.backgroundSize="100%"
+                body.style.backgroundAttachment="fixed"
+
+Drizzle
+body.style.background="url(./img/Drizzle.gif)"
+                body.style.backgroundRepeat="no-repeat"
+                body.style.backgroundSize="100%"
+                body.style.backgroundAttachment="fixed"
+
+Thunderstorm
+body.style.background="url(https://j.gifs.com/Kj4Ow6.gif)"
+                body.style.backgroundRepeat="no-repeat"
+                body.style.backgroundSize="100%"
+                body.style.backgroundAttachment="fixed"
+
+Rain
+body.style.background="url(./img/Rain.gif)"
+                body.style.backgroundRepeat="no-repeat"
+                body.style.backgroundSize="100%"
+                body.style.backgroundAttachment="fixed"
+
+Snow
+body.style.background="url(./img/Snow.gif)"
+                body.style.backgroundRepeat="no-repeat"
+                body.style.backgroundSize="100%"
+                body.style.backgroundAttachment="fixed"
+
+Mist
+body.style.background="url(./img/Mist.gif)"
+                body.style.backgroundRepeat="no-repeat"
+                body.style.backgroundSize="100%"
+                body.style.backgroundAttachment="fixed"
+
+Clear
+body.style.background="url(./img/Drizzle.gif)"
+                body.style.backgroundRepeat="no-repeat"
+                body.style.backgroundSize="100%"
+                body.style.backgroundAttachment="fixed"
